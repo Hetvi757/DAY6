@@ -1,0 +1,10 @@
+.mainbox{
+    border: 1px solid;
+    height: 600px;
+    width: 500px;
+    padding-left: 3px;
+    background-color: blanchedalmond;
+}
+body{
+    background-color:rgb(156, 48, 68);
+}
